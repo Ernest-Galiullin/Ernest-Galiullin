@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ernest-Galiullin
 - 👀 I’m interested in JavaScript development
 - 🌱 I’m learning how to work in the React / Redux / Typescript bundle
-- 💞️ I’m looking to collaborate on https://it-only.ru/
 
 
 <!---
