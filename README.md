@@ -30,8 +30,10 @@ You can click the Preview link to take a look at your changes.
 	<a href="https://www.linkedin.com/in/yashitanamdeo/"><img src="assets/linkedin.png" alt="LinkedIn"/></a> -->
 
 <p align="center">
-	<a href="https://yashitanamdeo.github.io/"><img src="assets/web.png" alt="Portfolio"/></a>
-	<a href="https://github.com/Ernest-Galiullin"><img src="assets/github.png" alt="GitHub"/></a>
-	<a href="https://www.instagram.com/ernest.galiullin/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="mailto:yashita.namdeo2000@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://t.me/ernest_galiullin"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
+	<a href="https://ernest-galiullin.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
+	<a href="https://github.com/Ernest-Galiullin"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/ernest.galiullin"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/ernest.galiullin"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="mailto:ernest.980907@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 </p>
