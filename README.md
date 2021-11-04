@@ -27,8 +27,8 @@
 <!---
 Ernest-Galiullin/Ernest-Galiullin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-<!-- 	<a href="https://www.linkedin.com/in/yashitanamdeo/"><img src="assets/linkedin.png" alt="LinkedIn"/></a> -->
---->
+	<a href="https://www.linkedin.com/in/yashitanamdeo/"><img src="assets/linkedin.png" alt="LinkedIn"/></a> -->
+
 <p align="center">
 	<a href="https://yashitanamdeo.github.io/"><img src="assets/web.png" alt="Portfolio"/></a>
 	<a href="https://github.com/Ernest-Galiullin"><img src="assets/github.png" alt="GitHub"/></a>
