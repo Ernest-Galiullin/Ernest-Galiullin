@@ -138,7 +138,7 @@
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
   <a href="https://expressjs.com" > 
-    <img src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" alt="express" width="40" height="40"/> 
+    <img src="https://fast-sea-96711.herokuapp.com/images/express.png" alt="express" width="40" height="40"/> 
   </a> 
   <a href="https://socket.io/" > 
     <img 
