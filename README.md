@@ -73,12 +73,6 @@
       alt="material-ui" width="40" height="40"
     />
   </a> 
-  <a href="https://pugjs.org" > 
-    <img 
-      src="https://cdn.worldvectorlogo.com/logos/pug.svg" 
-      alt="pug" width="40" height="40"
-    /> 
-  </a> 
   <a href="https://sass-lang.com" > 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" 
       width="40" height="40"
@@ -90,9 +84,9 @@
       width="40" height="40"
     /> 
   </a> 
-  <a href="https://babeljs.io/" > 
+  <a href="https://webpack.js.org/" > 
     <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1280px-Babel_Logo.svg.png" alt="babel" 
+      src="https://fast-sea-96711.herokuapp.com/images/1636370705483-webpack.png" alt="babel" 
       width="40" height="40"
     /> 
   </a> 
