@@ -96,9 +96,9 @@
       width="40" height="40"
     /> 
   </a> 
-  <a href="https://d3js.org/" > 
+  <a href="https://www.chartjs.org/" > 
     <img 
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" 
+      src="https://www.chartjs.org/img/chartjs-logo.svg" alt="d3js" 
       width="40" height="40"
     /> 
   </a> 
