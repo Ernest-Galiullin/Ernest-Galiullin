@@ -7,7 +7,7 @@
 <p align="center"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.typescriptlang.org" > <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="python" width="50" height="50"/> </a> </p>
   
 <h3 align="center">IDEs/Editor</h3>
-<p align="center"> <a href="https://codepen.io/" > <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="codepen" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/webstorm/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png" alt="jupyter notebook" width="40" height="40"/> <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> <a href="https://replit.com/" > <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Repl.it_logo.svg" alt="replit" width="40" height="40"/> </a> </p>
+<p align="center"> <a href="https://codepen.io/" > <img src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="codepen" width="40" height="40"/> </a> <a href="https://www.jetbrains.com/webstorm/" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/WebStorm_Icon.png/1024px-WebStorm_Icon.png" alt="jupyter notebook" width="40" height="40"/> <a href="https://code.visualstudio.com/" > <img src="https://i.ibb.co/vBw3R3Q/Visual-Studio-Code.png" width="40" height="40"/> </a> </p>
   
 </td><td valign="top" width="33%">
 <h3 align="center">Frontend Development</h3>
