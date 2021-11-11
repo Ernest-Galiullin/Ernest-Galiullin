@@ -86,7 +86,7 @@
   </a> 
   <a href="https://webpack.js.org/" > 
     <img 
-      src="https://fast-sea-96711.herokuapp.com/images/1636370705483-webpack.png" alt="babel" 
+      src="./assets/webpack.png" alt="babel" 
       width="40" height="40"
     /> 
   </a> 
@@ -151,10 +151,10 @@
       /> 
       </a> 
       <a href="https://www.mysql.com/" > 
-        <img src="https://fast-sea-96711.herokuapp.com/images/1636368925961-mysql.png" alt="mysql" width="40" height="40"/> 
+        <img src="./assets/mysql.png" alt="mysql" width="40" height="40"/> 
       </a> 
       <a href="https://jestjs.io/" > 
-        <img src="https://fast-sea-96711.herokuapp.com/images/1636368307378-jest.png" alt="mocha" width="40" height="40"/> 
+        <img src="./assets/jest.png" alt="mocha" width="40" height="40"/> 
       </a> 
       <a href="https://graphql.org/" > 
         <img src="https://graphql.org/img/logo.svg" alt="graphql" width="40" height="40"/> 
