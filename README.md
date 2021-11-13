@@ -1,7 +1,5 @@
-<h1 align="center">
-Hi, I'm Ernest Galiullin!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <img src="https://gpvc.arturio.dev/Ernest-Galiullin" alt="Profile views" align='right'/> <a href="https://github.com/Ernest-Galiullin/Ernest-Galiullin"> </a>
+<h1 align="center">Hi, I'm Ernest Galiullin!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+ <img src="https://gpvc.arturio.dev/Ernest-Galiullin" alt="Profile views" align='right'/><a href="https://github.com/Ernest-Galiullin/Ernest-Galiullin"></a>
 <br/>
 
 <table>
@@ -169,18 +167,22 @@ Hi, I'm Ernest Galiullin!
   </td>
 </tr>
 </table>
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ernest-galiullin&theme=merko&hide_border=true"/><p>
+  <br/>
+  <p align="center">
+  <a href="https://github.com/Ernest-Galiullin">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=ernest-galiullin&count_private=true&show_icons=true&theme=merko&hide_border=true" />
+  <img height="180em" width="400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ernest-galiullin&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide_border=true" /></a>
+  </p>
+</details>
 
-<h2 align="center">💻 Git hub analytics</h2>
-<p align="center"><img align="center" height="180em" width="350em" src="https://github-readme-streak-stats.herokuapp.com/?user=ernest-galiullin&theme=merko&hide_border=true"/><p>
-<p align="center">
-<a href="https://github.com/Ernest-Galiullin">
-  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=ernest-galiullin&count_private=true&show_icons=true&theme=merko&hide_border=true" />
-  <img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ernest-galiullin&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide_border=true" />
-</a>
-</p>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<h2 align="center">⚡ Recent GitHub Activity</h2>
+<details> 
+<summary>⚡ Recent GitHub Activity</summary>
 <p align="center"><a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ernest's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ernest-Galiullin&custom_title=Ernest-Galiullin's%20Contribution%20Graph&bg_color=0A0F0B&color=AAD100&line=9FC300&point=FFFFFF&hide_border=true" /></a></p>
+</details>
 
 <p align="center">
 	<a href="https://t.me/ernest_galiullin"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
