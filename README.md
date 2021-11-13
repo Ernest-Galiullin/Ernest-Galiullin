@@ -171,11 +171,11 @@ Hi, I'm Ernest Galiullin!
 </table>
 
 <h2 align="center">💻 Git hub analytics</h2>
-<p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ernest-galiullin&theme=merko&hide_border=true"/><p>
+<p align="center"><img align="center" height="180em" width="350em" src="https://github-readme-streak-stats.herokuapp.com/?user=ernest-galiullin&theme=merko&hide_border=true"/><p>
 <p align="center">
 <a href="https://github.com/Ernest-Galiullin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ernest-galiullin&count_private=true&show_icons=true&theme=merko&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ernest-galiullin&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide_border=true" />
+  <img height="180em" width="350em" src="https://github-readme-stats.vercel.app/api?username=ernest-galiullin&count_private=true&show_icons=true&theme=merko&hide_border=true" />
+  <img height="180em" width="350em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ernest-galiullin&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide_border=true" />
 </a>
 </p>
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
