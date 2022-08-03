@@ -117,7 +117,7 @@
 
 <p align="center">
 	<a href="https://ernest-galiullin.github.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Portfolio"/></a>
-	<a href="https://t.me/ernest_galiullin"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
+	<a href="https://t.me/ErnestGaliullin"><img src="https://img.icons8.com/bubbles/50/000000/telegram-app.png" alt="Telegram"/></a>
 	<a href="https://github.com/Ernest-Galiullin"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/ernest-galiullin"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/ernest.galiullin"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
